@@ -202,7 +202,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 - [OpenAI Harness Engineering Article](https://openai.com/index/harness-engineering/)
 - [AGENTS.md Specification](https://agents.md/)
 - [NPM Package](https://www.npmjs.com/package/agentic-engine)
-- [GitHub Repository](https://github.com/yourusername/agentic-engine)
+- [GitHub Repository](https://github.com/ymc182/agentic-engine)
 
 ## 💡 Tips
 
