@@ -1,8 +1,8 @@
-# create-agent-harness
+# agentic-engine
 
 **Scaffold agent-first project structures for agentic coding**
 
-[![npm version](https://img.shields.io/npm/v/create-agent-harness.svg)](https://www.npmjs.com/package/create-agent-harness)
+[![npm version](https://img.shields.io/npm/v/agentic-engine.svg)](https://www.npmjs.com/package/agentic-engine)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A CLI tool that creates an optimal project structure for agent-first development, based on [OpenAI's harness engineering principles](https://openai.com/index/harness-engineering/).
@@ -21,13 +21,13 @@ A CLI tool that creates an optimal project structure for agent-first development
 ### Using npx (npm)
 
 ```bash
-npx create-agent-harness
+npx agentic-engine
 ```
 
 ### Using bunx (Bun)
 
 ```bash
-bunx create-agent-harness
+bunx agentic-engine
 ```
 
 ## 📖 What Gets Created
@@ -201,8 +201,8 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 - [OpenAI Harness Engineering Article](https://openai.com/index/harness-engineering/)
 - [AGENTS.md Specification](https://agents.md/)
-- [NPM Package](https://www.npmjs.com/package/create-agent-harness)
-- [GitHub Repository](https://github.com/yourusername/create-agent-harness)
+- [NPM Package](https://www.npmjs.com/package/agentic-engine)
+- [GitHub Repository](https://github.com/yourusername/agentic-engine)
 
 ## 💡 Tips
 

@@ -1,10 +1,10 @@
 {
-	"name": "create-agent-harness",
+	"name": "agentic-engine",
 	"version": "1.0.0",
 	"description": "Scaffold agent-first project structure for agentic coding based on OpenAI's harness engineering principles",
 	"type": "module",
 	"bin": {
-		"create-agent-harness": "./bin/cli.js"
+		"agentic-engine": "./bin/cli.js"
 	},
 	"files": ["bin", "src", "templates"],
 	"scripts": {
@@ -23,8 +23,16 @@
 		"codex",
 		"agent-first"
 	],
-	"author": "",
+	"author": "Eric C",
 	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ymc182/agentic-engine.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ymc182/agentic-engine/issues"
+	},
+	"homepage": "https://github.com/ymc182/agentic-engine#readme",
 	"dependencies": {
 		"@clack/prompts": "^0.8.2",
 		"picocolors": "^1.1.1"

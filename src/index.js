@@ -28,7 +28,7 @@ import {
 async function main() {
 	console.clear();
 
-	p.intro(pc.bgCyan(pc.black(' create-agent-harness ')));
+	p.intro(pc.bgCyan(pc.black(' agentic-engine ')));
 
 	const project = await p.group(
 		{
