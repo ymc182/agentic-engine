@@ -1,0 +1,22 @@
+# Development files
+.git
+.gitignore
+.DS_Store
+*.log
+.vscode
+.idea
+
+# Test files
+test/
+tests/
+*.test.js
+*.spec.js
+
+# Documentation (keep README.md)
+docs/
+
+# Development config
+.editorconfig
+.prettierrc
+.eslintrc
+tsconfig.json
