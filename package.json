@@ -1,12 +1,16 @@
 {
 	"name": "agentic-engine",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Scaffold agent-first project structure for agentic coding based on OpenAI's harness engineering principles",
 	"type": "module",
 	"bin": {
 		"agentic-engine": "./bin/cli.js"
 	},
-	"files": ["bin", "src", "templates"],
+	"files": [
+		"bin",
+		"src",
+		"templates"
+	],
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"format": "biome format --write .",
